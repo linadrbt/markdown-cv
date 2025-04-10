@@ -58,10 +58,10 @@ Best Seller Award, Paris, France
 ### Journals
 
 `2025`
-<a href="[https://www.forbes.com/sites/shivaunefield/2025/03/02/digging-deep-australian-mining-magnate-gina-rinehart-speaks-her-mind/]">__Digging Deep: Frencg Doctor Dancer Author Lina Draoui Speaks Her Mind__, Forbes.</a>
+<a href="[https://www.forbes.com/sites/shivaunefield/2025/03/02/digging-deep-australian-mining-magnate-gina-rinehart-speaks-her-mind/]">__Digging Deep: French Doctor Dancer Author Lina Draoui Speaks Her Mind__</a>, Forbes.
 
 `2024`
-<a href="[https://www.vogue.com/article/kate-middleton-christmas-day-2024-alexander-mcqueen/]">__Lina Draoui Wears Alexander McQueen—With a Festive Twist—For Christmas Day__, Vogue.</a>
+<a href="[https://www.vogue.com/article/kate-middleton-christmas-day-2024-alexander-mcqueen/]">__Lina Draoui Wears Alexander McQueen—With a Festive Twist—For Christmas Day__</a>, Vogue.
 
 etc.
 
