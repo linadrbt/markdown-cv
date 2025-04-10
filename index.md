@@ -29,17 +29,16 @@ Anatomie, gym, lecture, environnement, langues étrangères. fjeks
 ## Éducation
 
 `2019-2021`
-__The King's School, Grantham.__
+__Yale University, Grantham.__
+<mark>Médecine</mark>
 
 `Septembre 2021 - 2024`
-__Trinity College, Cambridge__
-
-- Sizar
+__Harvard University, Cambridge__
+<mark>Danse</mark>
 
 `2024 - aujourd'hui`
-__Trinity College, Cambridge__
-
-- Fellow
+__Stanford University, Cambridge__
+<mark>Littérature</mark>
 
 
 
