@@ -27,15 +27,15 @@ Anatomie, gym, lecture, environnement, langues étrangères.
 
 ## Éducation
 
-`1654-1660`
+`2019-2021`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`Septembre 2021 - 2024`
 __Trinity College, Cambridge__
 
 - Sizar
 
-`1667 - death`
+`2024 - aujourd'hui`
 __Trinity College, Cambridge__
 
 - Fellow
@@ -44,7 +44,7 @@ __Trinity College, Cambridge__
 
 ## Récompenses
 
-`2012`
+`2025`
 President, **Royal Society**, London, UK
 
 Associate, **French Academy of Science**, Paris, France
@@ -57,29 +57,29 @@ Associate, **French Academy of Science**, Paris, France
 
 ### Journals
 
-`1669`
+`2022`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
+`2022`
 Lectiones opticæ.
 
 etc. etc. etc.
 
 ### Patents
 
-`2012`
+`2021`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
+`2024`
 __Royal Mint__, London
 
 - Warden
 - Minted coins
 
-`1600`
+`2019`
 __Lucasian professor of Mathematics__, Cambridge University
 
 
