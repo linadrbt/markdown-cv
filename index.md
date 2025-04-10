@@ -3,29 +3,29 @@ layout: cv
 title: Lina Draoui's CV
 ---
 # Lina Draoui
-Doctor, Dancer, Author.
+Docteure, Danseuse, Auteure.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">linadraoui@applesdofall.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="linadraoui@multitasker.fr">linadraoui@multitasker.fr</a>
+| <a href="http://en.wikipedia.org/wiki/Beyonce">Ma page wikipedia</a>
 </div>
 
 
-## Currently
+## En ce moment
 
-Standing on the shoulders of giants
+En train d'opérer.
 
-### Specialized in
+### Specialisé en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Corps humain, mouvement rythmique, littérature, arrogance [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-## Education
+### Intérêts
+
+Anatomie, gym, lecture, environnement, langues étrangères.
+
+
+## Éducation
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -42,12 +42,12 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Récompenses
 
 `2012`
-President, *Royal Society*, London, UK
+President, **Royal Society**, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Associate, **French Academy of Science**, Paris, France
 
 
 
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Dernière mise à jour : Avril 2025 -->
 
 
