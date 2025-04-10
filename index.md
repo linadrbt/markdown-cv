@@ -57,13 +57,13 @@ Associate, **French Academy of Science**, Paris, France
 
 ### Journals
 
-`2022`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2025`
+<a href="[https://www.forbes.com/sites/shivaunefield/2025/03/02/digging-deep-australian-mining-magnate-gina-rinehart-speaks-her-mind/]">__Digging Deep: Frencg Doctor Dancer Author Lina Draoui Speaks Her Mind__, Forbes.</a>
 
-`2022`
-Lectiones opticæ.
+`2024`
+<a href="[https://www.vogue.com/article/kate-middleton-christmas-day-2024-alexander-mcqueen]__Lina Draoui Wears Alexander McQueen—With a Festive Twist—For Christmas Day__, Vogue.</a>
 
-etc. etc. etc.
+etc.
 
 ### Patents
 
@@ -74,13 +74,12 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Occupation
 
 `2024`
-*__Présidente__ de la République
-
-* Chirurgienne
-* Danseuse classique, contemporaine, moderne
+* __Présidente__ de la République
+* __Chirurgienne__
+* __Danseuse__ classique, contemporaine, moderne
 
 `2019`
-__Best-selling autrice__
+__Best-selling__ autrice
 
 
 
