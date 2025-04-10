@@ -45,9 +45,9 @@ __Stanford University, Cambridge__
 ## Récompenses
 
 `2025`
-President, **Royal Society**, London, UK
+Médaille internationale de chirurgie, New York, US
 
-Associate, **French Academy of Science**, Paris, France
+Best Seller Award, Paris, France
 
 
 
