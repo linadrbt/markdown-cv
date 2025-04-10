@@ -75,13 +75,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Occupation
 
 `2024`
-__Royal Mint__, London
+*__Présidente__ de la République
 
-- Warden
-- Minted coins
+* Chirurgienne
+* Danseuse classique, contemporaine, moderne
 
 `2019`
-__Lucasian professor of Mathematics__, Cambridge University
+__Best-selling autrice__
 
 
 
