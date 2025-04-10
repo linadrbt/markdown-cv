@@ -10,7 +10,7 @@ Docteure, Danseuse, Auteure.
 | <a href="http://en.wikipedia.org/wiki/Beyonce">Ma page wikipedia</a>
 </div>
 
-![Shell](https://i.pinimg.com/736x/1e/4d/94/1e4d94fc22f849310d94e602c03e270c.jpg)
+![Shell]([https://i.pinimg.com/736x/1e/4d/94/1e4d94fc22f849310d94e602c03e270c.jpg](https://hancockogundiyapartners.com/wp-content/uploads/2019/07/dummy-profile-pic-300x300.jpg))
 
 ## En ce moment
 
