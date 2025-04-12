@@ -18,7 +18,7 @@ En train d'opérer.
 
 ### Specialisé en
 
-Corps humain, mouvement rythmique, littérature, arrogance [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Corps humain, mouvement rythmique, littérature, arrogance
 
 
 ### Intérêts
@@ -64,11 +64,6 @@ Best Seller Award, Paris, France
 <a href="https://www.vogue.com/article/kate-middleton-christmas-day-2024-alexander-mcqueen/">__Lina Draoui Wears Alexander McQueen—With a Festive Twist—For Christmas Day__</a>, Vogue.
 
 etc.
-
-### Patents
-
-`2021`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
