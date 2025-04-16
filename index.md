@@ -23,13 +23,13 @@ Corps humain, mouvement rythmique, littérature, arrogance
 
 ### Intérêts
 
-Anatomie, gym, lecture, environnement, langues étrangères. fjeks
+Anatomie, gym, lecture, environnement, langues étrangères.
 
 
 ## Éducation
 
 `2019-2021`
-__Yale University, Grantham.__
+__Yale University, New Haven.__
 - <mark>Médecine</mark>
 
 `Septembre 2021 - 2024`
@@ -37,7 +37,7 @@ __Harvard University, Cambridge__
 - <mark>Danse</mark>
 
 `2024 - aujourd'hui`
-__Stanford University, Cambridge__
+__Stanford University, San Fransisco
 - <mark>Littérature</mark>
 
 
@@ -53,8 +53,6 @@ Best Seller Award, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
 `2025`
@@ -66,7 +64,7 @@ Best Seller Award, Paris, France
 etc.
 
 
-## Occupation
+## Occupations
 
 `2024`
 * __Présidente__ de la République
