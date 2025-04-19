@@ -5,10 +5,8 @@ title: Lina Draoui's CV
 # Lina Draoui
 Docteure, Danseuse, Auteure.
 
-<div id="webaddress">
-<a href="mailto:linadraoui@multitasker.fr">linadraoui@multitasker.fr</a>
-| <a href="http://en.wikipedia.org/wiki/Beyonce">Ma page wikipedia</a>
-</div>
+📧 [linadraoui@multitasker.fr](mailto:linadraoui@multitasker.fr)  
+🌐 [Ma page Wikipedia](http://en.wikipedia.org/wiki/Beyonce)
 
 ![Shell](https://hancockogundiyapartners.com/wp-content/uploads/2019/07/dummy-profile-pic-300x300.jpg)
 
@@ -16,7 +14,7 @@ Docteure, Danseuse, Auteure.
 
 En train d'opérer.
 
-### Specialisé en
+### Specialisée en
 
 Corps humain, mouvement rythmique, littérature, arrogance
 
@@ -33,11 +31,11 @@ __Yale University, New Haven.__
 - <mark>Médecine</mark>
 
 `Septembre 2021 - 2024`
-__Harvard University, Cambridge__
+__Harvard University, Cambridge.__
 - <mark>Danse</mark>
 
 `2024 - aujourd'hui`
-__Stanford University, San Fransisco
+__Stanford University, San Fransisco.__
 - <mark>Littérature</mark>
 
 
