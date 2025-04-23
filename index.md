@@ -4,7 +4,7 @@ layout: cv
 title: Lina Draoui ## CV
 ---
 # Lina Draoui
-Docteure, Danseuse, Auteure.
+Docteure, Danseuse, Auteure. 
 
 📧 [linadraoui@multitalent.fr](mailto:linadraoui@multitalent.fr)  
 🌐 [Ma page Wikipedia](http://en.wikipedia.org/wiki/Beyonce)
