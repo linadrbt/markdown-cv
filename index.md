@@ -1,4 +1,4 @@
-index : 
+index :
 ---
 layout: cv
 title: Lina Draoui ## CV
@@ -77,6 +77,6 @@ __Best-selling__ autrice
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Dernière mise à jour : Avril 2025 -->
 
 
