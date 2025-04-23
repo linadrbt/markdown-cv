@@ -68,7 +68,7 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 
 ---
 
-## Commentaires du le projet CV
+## Commentaires du projet
 
 J’ai choisi de faire un CV afin d'appliquer plusieurs éléments vus en cours comme les titres, les listes, les liens hypertextes, l’image, ainsi que de la mise en forme comme le gras, l’italique et le surlignage. Le format du CV m’a permis d’expérimenter différentes structures tout en gardant un contenu dégagé et cohérent.
 
