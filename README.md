@@ -63,3 +63,24 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 ### License
 
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+
+-
+
+---
+
+## Commentaires du le projet CV
+
+J’ai choisi de faire un CV afin d'appliquer plusieurs éléments vus en cours comme les titres, les listes, les liens hypertextes, l’image, ainsi que de la mise en forme comme le gras, l’italique et le surlignage. Le format du CV m’a permis d’expérimenter différentes structures tout en gardant un contenu dégagé et cohérent.
+
+J'ai décidée de ne pas utiliser de tableau car, selon moi, il ne s’intégrait pas naturellement au CV, et complexifiait la lecture de la page. J’ai préféré utiliser des listes claires et une mise en page aérée.
+
+J’ai surlignié les disciplines étudiées afin de faire ressortir les nombreux domaines de spécialisation de l'auteur du CV.
+
+J’ai également intégré une image de profil depuis un lien externe, mais une copie de l'image a aussi été ajoutée au dossier.
+
+Pour les liens hypertextes, des exemples fictifs vers des articles et des pages externes ont été utilisées afin d'utiliser le Markdown pour créer du texte cliquable.
+
+J’ai inclus une adresse mail et un lien vers une page Wikipedia en utilisant des balises HTML <a> et du Markdown
+
+Le site a été déployé grâce à GitHub au lien suivant : 
+[https://linadrbt.github.io/markdown-cv/](https://linadrbt.github.io/markdown-cv/)
