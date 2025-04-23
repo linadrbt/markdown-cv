@@ -1,5 +1,12 @@
 ---
 layout: cv
+
+<style>
+body {
+background-color: #f5f5dc;
+}
+</style>
+
 title: Lina Draoui ## CV
 ---
 
