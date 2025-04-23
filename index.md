@@ -3,12 +3,6 @@ layout: cv
 title: Lina Draoui ## CV
 ---
 
-<style>
-body {
-background-color: #f5f5dc;
-}
-</style>
-
 # Lina Draoui
 Docteure, Danseuse, Auteure. 
 
