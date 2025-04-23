@@ -1,4 +1,4 @@
-index :
+index:
 ---
 layout: cv
 title: Lina Draoui ## CV
