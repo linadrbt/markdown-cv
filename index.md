@@ -1,8 +1,8 @@
-index:
 ---
 layout: cv
 title: Lina Draoui ## CV
 ---
+
 # Lina Draoui
 Docteure, Danseuse, Auteure. 
 
@@ -29,15 +29,15 @@ Anatomie, gym, lecture, environnement, langues étrangères.
 
 `2019-2021`
 __Yale University, New Haven.__
-- <mark>Médecine</mark>
+- _Médecine_
 
 `Septembre 2021 - 2024`
 __Harvard University, Cambridge.__
-- <mark>Danse</mark>
+- _Danse_
 
 `2024 - aujourd'hui`
 __Stanford University, Palo Alto.__
-- <mark>Littérature</mark>
+- _Littérature_
 
 
 
