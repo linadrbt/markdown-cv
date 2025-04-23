@@ -1,86 +1,77 @@
+index : 
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lina Draoui ## CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lina Draoui
+Docteure, Danseuse, Auteure.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+📧 [linadraoui@multitalent.fr](mailto:linadraoui@multitalent.fr)  
+🌐 [Ma page Wikipedia](http://en.wikipedia.org/wiki/Beyonce)
 
+![Shell](https://hancockogundiyapartners.com/wp-content/uploads/2019/07/dummy-profile-pic-300x300.jpg)
 
-## Currently
+## En ce moment
 
-Standing on the shoulders of giants
+En train d'opérer.
 
-### Specialized in
+### Spécialisée en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Corps humain, mouvement rythmique, littérature, arrogance
 
 
-## Education
+### Intérêts
 
-`1654-1660`
-__The King's School, Grantham.__
+Anatomie, gym, lecture, environnement, langues étrangères.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
+## Éducation
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2019-2021`
+__Yale University, New Haven.__
+- <mark>Médecine</mark>
 
-- Fellow
+`Septembre 2021 - 2024`
+__Harvard University, Cambridge.__
+- <mark>Danse</mark>
+
+`2024 - aujourd'hui`
+__Stanford University, Palo Alto.__
+- <mark>Littérature</mark>
 
 
 
-## Awards
+## Récompenses
 
-`2012`
-President, *Royal Society*, London, UK
+`2025`
+Médaille internationale de chirurgie, New York, US
 
-Associate, *French Academy of Science*, Paris, France
+Best Seller Award, Paris, France
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2025`
+<a href="https://www.forbes.com/sites/shivaunefield/2025/03/02/digging-deep-australian-mining-magnate-gina-rinehart-speaks-her-mind/">__Digging Deep: French Doctor Dancer Author Lina Draoui Speaks Her Mind__</a>, Forbes.
 
-`1669`
-Lectiones opticæ.
+`2024`
+<a href="https://www.vogue.com/article/kate-middleton-christmas-day-2024-alexander-mcqueen/">__Lina Draoui Wears Alexander McQueen—With a Festive Twist—For Christmas Day__</a>, Vogue.
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+etc.
 
 
-## Occupation
+## Occupations
 
-`1600`
-__Royal Mint__, London
+`2024`
+* __Présidente__ de la République
+* __Chirurgienne__
+* __Danseuse__ classique, contemporaine, moderne
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019`
+__Best-selling__ autrice
 
 
 
